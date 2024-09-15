@@ -15,3 +15,6 @@
   20 git status
   21 git restore testing.py
   22 git status
+  git clone https://github.com/deepakkit2/devops2024.git
+  git remote -v
+  git push origin master
