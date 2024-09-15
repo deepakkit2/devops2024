@@ -1,0 +1,17 @@
+ git init
+   4 git status
+   5 git add testing.py
+   6 git status
+  10 git rm -- cached testing.py
+  11 git status
+  12 git rm --cached testing.py
+  13 git status
+  14 git add.
+  15 git add .
+  16 git status
+  17 git commit -m "hello new yupdate"
+  18 git status
+  19 rm testing.py
+  20 git status
+  21 git restore testing.py
+  22 git status
